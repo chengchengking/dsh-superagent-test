@@ -1,2 +1,3 @@
 # dsh-superagent-test
-Test repository for DeepSeek Harness Superagent
+超级代理测试仓库
+维护者：chengchengking
